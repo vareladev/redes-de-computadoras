@@ -30,6 +30,7 @@ Nodo que realiza peticiones en forma de mensajes de servicio a los proveedores d
 Una red de computadoras es un conjunto de equipos informáticos conectados entre sí utilizando un medio y lograr compartir información, recursos  y/o servicios.
 
 * *Medio:*
+
 Elemento físico que los nodos utilizan para comunicarse, este puede ser un cable, vidrio o incluso el aire.
 
 * *Conmutación de circuitos:*
@@ -48,6 +49,7 @@ Dentro de una red actual pueden convivir una gran cantidad de componentes, para 
 ![componentes de una red](https://user-images.githubusercontent.com/36117314/49407688-07b2b800-f71f-11e8-87ec-fcf3706a128c.png)
 
 * *Computadora de escritorio:*
+
 Nodo básico de una red. Suelen funcionar como componentes clientes, es decir, solicitan información, servicios o recursos a la red.
 
 * *Portátil:*
@@ -107,6 +109,10 @@ Algunos de los protocolos más famosos pueden ser:
 * SMTP: protocolo para transferencia simple de correo, para el correo electrónico.
 
 * Telnet (Telecommunication Network), para acceder a equipos remotos.
+
+## Autores
+
+* **Erick Varela** ([vareladev](https://github.com/vareladev/))
 
 ## Referencias:
 
