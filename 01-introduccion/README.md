@@ -110,9 +110,6 @@ Algunos de los protocolos más famosos pueden ser:
 
 * Telnet (Telecommunication Network), para acceder a equipos remotos.
 
-## Autores
-
-* **Erick Varela** ([vareladev](https://github.com/vareladev/))
 
 ## Referencias:
 
@@ -120,4 +117,6 @@ Algunos de los protocolos más famosos pueden ser:
 
 * [https://www.ecured.cu/Protocolos_de_red](https://www.ecured.cu/Protocolos_de_red)
 
-* [https://sites.google.com/site/investigacionesitlm/home/1-2-conceptos-basicos-y-componentes-de-una-red](https://sites.google.com/site/investigacionesitlm/home/1-2-conceptos-basicos-y-componentes-de-una-red)
+## Autores
+
+* **Erick Varela** ([vareladev](https://github.com/vareladev/))
