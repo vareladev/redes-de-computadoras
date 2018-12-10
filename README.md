@@ -3,9 +3,7 @@
 ## Temas
 
 ### 01 Introducción a las redes de computadoras.
-
-
-
+### 02 Clasificación las redes de computadoras.
 
 ## Autores
 

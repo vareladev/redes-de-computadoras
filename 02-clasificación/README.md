@@ -34,13 +34,13 @@ El cable de par trenzado consiste en grupos de hilos de cobre entrelazados en pa
 
 Algunas de las ventajas del cable UTP son:
 
-*Bajo costo.
+* Bajo costo.
 
-*Alto número de estaciones de trabajo por segmento.
+* Alto número de estaciones de trabajo por segmento.
 
-*Facilidad para el rendimiento y la solución de problemas.
+* Facilidad para el rendimiento y la solución de problemas.
 
-*Es el medio cableado más utilizado en la actualidad.
+* Es el medio cableado más utilizado en la actualidad.
 
 #### Redes con fibra óptica.
 
