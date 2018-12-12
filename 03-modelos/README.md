@@ -43,7 +43,7 @@ Se ocupa del direccionamiento físico dentro de cualquier topología de red, est
 
 Controla las señales por donde viajaran los datos (cable de par trenzado, fibra óptica, radio frecuencia).
 
-## 3.1.1 Ventajas del modelo OSI.
+### 3.1.1 Ventajas del modelo OSI.
 
 * Facilita la comprensión al dividir un problema complejo en partes más simple.
 
@@ -94,7 +94,7 @@ La siguiente ilustración muestra los protocolos más conocidos del modelo TCP/I
 
 ![4-suite-protocolos-tcp-ip](https://user-images.githubusercontent.com/36117314/49886455-4c191480-fdff-11e8-814d-7be5a95ae9f7.png)
 
-## 3.2.1 Ventajas del modelo TCP/IP:
+### 3.2.1 Ventajas del modelo TCP/IP:
 
 * El conjunto TCP/IP está diseñado para enrutar.
 
